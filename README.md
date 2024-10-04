@@ -51,4 +51,4 @@ bash ./2-provision.sh
 
 ## Inspired by
 
-- https://github.com/chris2k20/proxmox-cloud-ini
+- https://github.com/chris2k20/proxmox-cloud-init
